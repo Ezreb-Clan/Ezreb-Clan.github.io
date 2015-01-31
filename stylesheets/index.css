@@ -1,0 +1,9 @@
+
+.jumbotron {
+    background-image: url("../images/Mrab's Youtube.jpg"); 
+    color: red;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: block;
+}
